@@ -1,7 +1,7 @@
 const items = {
     buy: {
         limit: {
-            exp: 999
+            exp: 200000
         },
         potion: {
             money: 1250,
@@ -22,7 +22,10 @@ const items = {
         	money: 3000
         },
         legendary: {
-            money: 15000
+            money: 1500000
+        },
+        red: {
+            money: 99999999
         }
     },
     sell: {
@@ -45,10 +48,10 @@ const items = {
             money: 2500
         },
         gold: {
-            money: 4700
+            money: 800000
         },
         diamond: {
-            money: 9000
+            money: 500000
         },
         emerald: {
             money: 15000
