@@ -56,20 +56,6 @@ const rewards = {
         rock: [0, 1, 0, 0],
         string: [0, 1, 0, 0]
     },
-    red: {
-        money: 5000000,
-        exp: 9999999,
-        trash: 5000,
-        potion: [5,9,7,3],
-        emerald: [8, 5, 9,],
-        diamond: [5,9,7,8,5],
-        gold: [9,5,7,6,2,4],
-        iron: [9,8,6],
-        common: [9,8],
-        uncommon: [8,6,9],
-        mythic: [7,6,8],
-        legendary: [9,8,6,7,5],
-       },
     // pet: {
     //     petFood: [0, 1, 0, 0, 0],
     //     anjing: [],
