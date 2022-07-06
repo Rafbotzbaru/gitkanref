@@ -118,8 +118,8 @@ export async function handler(chatUpdate) {
                     user.mythic = 0
                 if (!isNumber(user.legendary))
                     user.legendary = 0
-                if (!isNumber(user.superior))
-                    user.superior = 0
+                if (!isNumber(user.red))
+                    user.red = 0
                 if (!isNumber(user.pet))
                     user.pet = 0
 
@@ -242,7 +242,7 @@ export async function handler(chatUpdate) {
                     uncommon: 0,
                     mythic: 0,
                     legendary: 0,
-                    superior: 0,
+                    red: 0,
                     pet: 0,
 
                     horse: 0,
