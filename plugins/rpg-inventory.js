@@ -81,6 +81,7 @@ const inventory = {
     uncommon: true,
     mythic: true,
     legendary: true,
+    red: true, 
   },
   pets: {
     horse: 10,
